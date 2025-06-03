@@ -14,16 +14,28 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 
 🎯 **Current Role:**  
 Frontend Developer at Vietnam Blockchain Corporation  
-- Led frontend development from scratch for a real estate transaction platform.
-- Built highly responsive UIs with ReactJS/Next.js and TypeScript.
-- Implemented features like PDF manipulation, drag-and-drop, and secure authentication.
+- Led frontend development from scratch for a **real estate transaction platform**, including architecture setup, folder structure, and CI/CD pipelines.
+- Built highly responsive UIs with ReactJS/Next.js and TypeScript, based on Figma designs and styled with Tailwind CSS and Shadcn UI.
+- Integrated and manipulated PDFs using react-pdf-highlighter-extended and @react-pdf/renderer, adding QR codes, annotations/comments, and embedding images.
+- Developed drag-and-drop capabilities with react-draggable and react-dnd for dynamic fields.
+- Managed secure authentication using JWT, VNPT SSO, Firebase OTP, with CSRF/XSS protection and dynamic routing via HOCs.
+- Refactored legacy components into a modular component library with performance optimizations (lazy loading, memoization).
+- Released a cross-platform mobile app using React Native and EAS, optimized for Android deployment.
+- Mentored a junior developer, conducted code reviews, and maintained a clean, scalable codebase.
+
+🌐 **Public Services Highlights at VBC (2024):**
+- Successfully implemented an **electronic opinion-collection system using Blockchain technology** in Hau Giang Province, later expanded to Ho Chi Minh City. This system ensures transparency, security, and efficiency in gathering public and stakeholder feedback.
+- Currently developing a **document authentication and certification solution** based on Blockchain technology, with a pilot at the Ho Chi Minh City Department of Science and Technology. This solution aims to digitize administrative processes, enhancing transparency and credibility.
 
 🛠️ **Past Experience:**  
 - **Full-Stack Developer at Gia An Digital Healthcare**
   - Developed blockchain-based public document feedback platform.
   - Tech Stack: Angular, ASP.NET Core, Tailwind CSS, Entity Framework.
 - **Frontend Developer at Alpaca Vietnam**
-  - Built reusable components, improved data entry time by ~30%.
+  - Developed and maintained frontend features using ReactJS and Next.js in a component-based architecture.
+  - Integrated RESTful APIs following Swagger documentation, collaborating closely with backend engineers to ensure seamless data flow.
+  - Actively participated in Agile ceremonies (daily stand-ups, sprint planning), contributing to cross-functional collaboration and on-time delivery.
+  - Conducted code reviews and enforced best practices (naming conventions, component reusability, performance optimization) to ensure clean, maintainable code.
 
 🌟 **Key Achievements:**
 - Mentored junior developers, conducted code reviews, and maintained a clean, scalable codebase.
