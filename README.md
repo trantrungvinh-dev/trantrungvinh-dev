@@ -45,12 +45,12 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
   - Conducted code reviews and enforced best practices (naming conventions, component reusability, performance optimization) to ensure clean, maintainable code.
 
 🌟 **Key Achievements:**
-- Mentored junior developers, conducted code reviews, and maintained a clean, scalable codebase.
-- Integrated advanced PDF features: adding QR codes, annotations, image embedding.
-- Developed secure authentication using JWT, VNPT SSO, Firebase OTP, and implemented CSRF/XSS protection.
-- Reduced document processing time by 40% via UX improvements.
-- Reduced frontend bug reports by 30% through proactive testing.
-- Improved initial load time by 25% with dynamic import and memoization.
+  - Mentored junior developers, conducted code reviews, and maintained a clean, scalable codebase.
+  - Integrated advanced PDF features: adding QR codes, annotations, image embedding.
+  - Developed secure authentication using JWT, VNPT SSO, Firebase OTP, and implemented CSRF/XSS protection.
+  - Reduced document processing time by 40% via UX improvements.
+  - Reduced frontend bug reports by 30% through proactive testing.
+  - Improved initial load time by 25% with dynamic import and memoization.
 
 ---
 
