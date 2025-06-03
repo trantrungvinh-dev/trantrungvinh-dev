@@ -15,7 +15,7 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 🎯 **Current Role:**  
 
 Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnamblockchain.asia)
-- Led frontend development from scratch for a **real estate transaction platform**, including architecture setup, folder structure, and CI/CD pipelines.
+- Led frontend development from scratch for a **electronic opinion-collection system using Blockchain technology**, including architecture setup, folder structure, and CI/CD pipelines.
 - Built highly responsive UIs with ReactJS/Next.js and TypeScript, based on Figma designs and styled with Tailwind CSS and Shadcn UI.
 - Integrated and manipulated PDFs using react-pdf-highlighter-extended and @react-pdf/renderer, adding QR codes, annotations/comments, and embedding images.
 - Developed drag-and-drop capabilities with react-draggable and react-dnd for dynamic fields.
@@ -25,7 +25,7 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 - Mentored a junior developer, conducted code reviews, and maintained a clean, scalable codebase.
 
 🌐 **Public Services Highlights at VBC (2024):**
-- Successfully implemented an [**electronic opinion-collection system using Blockchain technology**]((https://ykien.haugiang.gov.vn/)) in Hau Giang Province, later expanded to Ho Chi Minh City. This system ensures transparency, security, and efficiency in gathering public and stakeholder feedback.
+- Successfully implemented an [**electronic opinion-collection system using Blockchain technology**](https://ykien.haugiang.gov.vn/) in Hau Giang Province, later expanded to Ho Chi Minh City. This system ensures transparency, security, and efficiency in gathering public and stakeholder feedback.
 - Currently developing a **document authentication and certification solution** based on Blockchain technology, with a pilot at the Ho Chi Minh City Department of Science and Technology. This solution aims to digitize administrative processes, enhancing transparency and credibility.
 
 🛠️ **Past Experience:**  
