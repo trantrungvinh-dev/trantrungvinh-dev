@@ -14,7 +14,7 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 
 🎯 **Current Role:**  
 
-Frontend Developer at Vietnam Blockchain Corporation  
+Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnamblockchain.asia)
 - Led frontend development from scratch for a **real estate transaction platform**, including architecture setup, folder structure, and CI/CD pipelines.
 - Built highly responsive UIs with ReactJS/Next.js and TypeScript, based on Figma designs and styled with Tailwind CSS and Shadcn UI.
 - Integrated and manipulated PDFs using react-pdf-highlighter-extended and @react-pdf/renderer, adding QR codes, annotations/comments, and embedding images.
@@ -29,10 +29,10 @@ Frontend Developer at Vietnam Blockchain Corporation
 - Currently developing a **document authentication and certification solution** based on Blockchain technology, with a pilot at the Ho Chi Minh City Department of Science and Technology. This solution aims to digitize administrative processes, enhancing transparency and credibility.
 
 🛠️ **Past Experience:**  
-- **Full-Stack Developer at Gia An Digital Healthcare**
+- **Full-Stack Developer at Y TE SO GIA AN (A Company under HOA LÂM Group)**
   - Developed blockchain-based public document feedback platform.
   - Tech Stack: Angular, ASP.NET Core, Tailwind CSS, Entity Framework.
-- **Frontend Developer at Alpaca Vietnam**
+- **Frontend Developer at [Alpaca Vietnam](https://alpaca.vn/)**
   - Developed and maintained frontend features using ReactJS and Next.js in a component-based architecture.
   - Integrated RESTful APIs following Swagger documentation, collaborating closely with backend engineers to ensure seamless data flow.
   - Actively participated in Agile ceremonies (daily stand-ups, sprint planning), contributing to cross-functional collaboration and on-time delivery.
