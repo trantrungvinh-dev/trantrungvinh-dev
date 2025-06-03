@@ -30,8 +30,13 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 
 🛠️ **Past Experience:**  
 - **Full-Stack Developer at [Y TE SO GIA AN](https://giaan115.com/) (A Company under HOA LÂM Group)**
-  - Developed blockchain-based public document feedback platform.
-  - Tech Stack: Angular, ASP.NET Core, Tailwind CSS, Entity Framework.
+  Contributed to the development of Gia An International Hospital's digital healthcare system, supporting key modules such as EMR, ERP, HRM, and HIS.
+  - **Frontend:** Built and maintained applications using **Angular v16**, **Tailwind CSS**, and **TypeScript**.
+  - **Backend:** Developed APIs with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **MS SQL Server**, documented via **Swagger**.
+  - **Reporting:** Implemented reporting features using **DevExpress**.
+  - **Mobile:** Developed cross-platform mobile apps with **Flutter** for high-performance experiences.
+  - **User Experience:** Enhanced UX with reusable components, ensuring stable and reliable data entry.
+
 - **Frontend Developer at [Alpaca Vietnam](https://alpaca.vn/)**
   - Developed and maintained frontend features using ReactJS and Next.js in a component-based architecture.
   - Integrated RESTful APIs following Swagger documentation, collaborating closely with backend engineers to ensure seamless data flow.
