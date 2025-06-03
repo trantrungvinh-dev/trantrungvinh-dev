@@ -8,9 +8,9 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 
 🎯 **Current Role:**  
 Frontend Developer at Vietnam Blockchain Corporation  
-- Leading frontend development for a real estate transaction platform.
-- Building highly responsive UIs with ReactJS/Next.js and TypeScript.
-- Implementing features like PDF manipulation, drag-and-drop, and secure authentication.
+- Led frontend development from scratch for a real estate transaction platform.
+- Built highly responsive UIs with ReactJS/Next.js and TypeScript.
+- Implemented features like PDF manipulation, drag-and-drop, and secure authentication.
 
 🛠️ **Past Experience:**  
 - **Full-Stack Developer at Gia An Digital Healthcare**
@@ -20,6 +20,9 @@ Frontend Developer at Vietnam Blockchain Corporation
   - Built reusable components, improved data entry time by ~30%.
 
 🌟 **Key Achievements:**
+- Mentored junior developers, conducted code reviews, and maintained a clean, scalable codebase.
+- Integrated advanced PDF features: adding QR codes, annotations, image embedding.
+- Developed secure authentication using JWT, VNPT SSO, Firebase OTP, and implemented CSRF/XSS protection.
 - Reduced document processing time by 40% via UX improvements.
 - Reduced frontend bug reports by 30% through proactive testing.
 - Improved initial load time by 25% with dynamic import and memoization.
@@ -40,7 +43,11 @@ Frontend Developer at Vietnam Blockchain Corporation
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trantrungvinh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trantrungvinh-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trantrungvinh-dev&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
