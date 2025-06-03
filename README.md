@@ -88,8 +88,8 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 
 ## 🔗 Recent Projects
 
-- 🔗 [Vietnam Blockchain Real Estate Platform](https://vietnamblockchain.asia/) — Frontend lead developer
-- 🔗 [Public Document Feedback Platform] — Blockchain-based digital document system
+- 🔗 [**Electronic opinion-collection system using Blockchain technology**](https://ykien.haugiang.gov.vn/) in Hau Giang Province — Frontend lead developer
+- 🔗 [**GitHub Search App with Twilio Authentication**] — FullStack Developer
 
 ---
 
