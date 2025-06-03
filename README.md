@@ -25,7 +25,7 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 - Mentored a junior developer, conducted code reviews, and maintained a clean, scalable codebase.
 
 🌐 **Public Services Highlights at VBC (2024):**
-- Successfully implemented an **electronic opinion-collection system using Blockchain technology** in Hau Giang Province, later expanded to Ho Chi Minh City. This system ensures transparency, security, and efficiency in gathering public and stakeholder feedback.
+- Successfully implemented an [**electronic opinion-collection system using Blockchain technology**]((https://ykien.haugiang.gov.vn/)) in Hau Giang Province, later expanded to Ho Chi Minh City. This system ensures transparency, security, and efficiency in gathering public and stakeholder feedback.
 - Currently developing a **document authentication and certification solution** based on Blockchain technology, with a pilot at the Ho Chi Minh City Department of Science and Technology. This solution aims to digitize administrative processes, enhancing transparency and credibility.
 
 🛠️ **Past Experience:**  
