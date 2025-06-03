@@ -29,7 +29,7 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 - Currently developing a **document authentication and certification solution** based on Blockchain technology, with a pilot at the Ho Chi Minh City Department of Science and Technology. This solution aims to digitize administrative processes, enhancing transparency and credibility.
 
 🛠️ **Past Experience:**  
-- **Full-Stack Developer at Y TE SO GIA AN (A Company under HOA LÂM Group)**
+- **Full-Stack Developer at [Y TE SO GIA AN](https://giaan115.com/) (A Company under HOA LÂM Group)**
   - Developed blockchain-based public document feedback platform.
   - Tech Stack: Angular, ASP.NET Core, Tailwind CSS, Entity Framework.
 - **Frontend Developer at [Alpaca Vietnam](https://alpaca.vn/)**
