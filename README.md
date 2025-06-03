@@ -15,7 +15,7 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 🎯 **Current Role:**  
 
 Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnamblockchain.asia)
-- Led frontend development from scratch for a **electronic opinion-collection system using Blockchain technology**, including architecture setup, folder structure, and CI/CD pipelines.
+- Led frontend development from scratch for a **[electronic opinion-collection system using Blockchain technology](https://ykien.haugiang.gov.vn/)**, including architecture setup, folder structure, and CI/CD pipelines.
 - Built highly responsive UIs with ReactJS/Next.js and TypeScript, based on Figma designs and styled with Tailwind CSS and Shadcn UI.
 - Integrated and manipulated PDFs using react-pdf-highlighter-extended and @react-pdf/renderer, adding QR codes, annotations/comments, and embedding images.
 - Developed drag-and-drop capabilities with react-draggable and react-dnd for dynamic fields.
