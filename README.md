@@ -37,6 +37,7 @@ Frontend Developer at Vietnam Blockchain Corporation
 - **Mobile Development:** React Native, EAS (Expo Application Services)
 - **APIs & Tools:** Axios, Fetch, Swagger, Git, GitHub, GitLab
 - **Development Practices:** Agile/Scrum, Clean Code, CI/CD, Code Reviews
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
