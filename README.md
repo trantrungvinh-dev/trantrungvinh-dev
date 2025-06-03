@@ -4,6 +4,12 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="animated coding gif" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 🎯 **Current Role:**  
