@@ -12,12 +12,13 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 
 ## 💻 Tech Stack
 
-- **Languages & Frameworks:** JavaScript, TypeScript, ReactJS, Next.js
-- **UI/UX & Styling:** Shadcn UI, Radix UI, Tailwind CSS, DevExtreme, Material UI, Bootstrap
-- **State Management:** Redux, Zustand, Context API
+- **Languages & Frameworks:** JavaScript, TypeScript, ReactJS, Next.js, Angular, Vue.js
+- **UI/UX & Styling:** Tailwind CSS, Shadcn UI, Radix UI, Material UI, Ant Design, Arco Design, Bootstrap, DevExtreme, Framer Motion
+- **State Management:** Redux, Zustand, Context API, React Query
+- **APIs & Tools:** Axios, Fetch, Swagger, Vite, Git, GitHub, GitLab
 - **Mobile Development:** React Native, EAS (Expo Application Services)
-- **APIs & Tools:** Axios, Fetch, Swagger, Git, GitHub, GitLab
-- **Development Practices:** Agile/Scrum, Clean Code, CI/CD, Code Reviews
+- **Testing & Quality:** Jest, ESLint, Prettier
+- **Development Practices:** Agile/Scrum, Clean Code, CI/CD, Code Reviews, Design Systems, Micro Frontend
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
