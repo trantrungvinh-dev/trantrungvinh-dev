@@ -78,7 +78,7 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
   - Reduced document processing time by 40% via UX improvements.
   - Reduced frontend bug reports by 30% through proactive testing.
   - Improved initial load time by 25% with dynamic import and memoization.
-  - 
+    
 ---
 
 ## 📈 GitHub Stats
