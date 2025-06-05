@@ -104,7 +104,7 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dev-cmd)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://my-portfolio-nextjs-a7k7nev5s-zunggzings-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://my-portfolio-nextjs-a7k7nev5s-zunggzings-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white)](mailto:hello.trungvinh@gmail.com)
 
 ---
