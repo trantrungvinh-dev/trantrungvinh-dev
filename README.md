@@ -49,6 +49,12 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
 - Successfully implemented an [**electronic opinion-collection system using Blockchain technology**](https://ykien.haugiang.gov.vn/) in Hau Giang Province, later expanded to Ho Chi Minh City. This system ensures transparency, security, and efficiency in gathering public and stakeholder feedback.
 - Currently developing a **document authentication and certification solution** based on Blockchain technology, with a pilot at the Ho Chi Minh City Department of Science and Technology. This solution aims to digitize administrative processes, enhancing transparency and credibility.
 
+🔒 **Blockchain System Deployment & Information Security Compliance**
+- **Achieved Information Security Level 2 Certification** under Decree 85/2016/NĐ-CP, ensuring data safety and network protection.
+- **Integrated seamlessly** with the Department’s existing IT infrastructure, enabling efficient system monitoring and operations.
+- **Enhanced interoperability** by integrating with key government systems such as e-citizen management, e-document management, and SSO authentication, facilitating smooth data exchange between administrative units.
+
+
 🛠️ **Past Experience:**  
 - **Full-Stack Developer at [Y TE SO GIA AN](https://giaan115.com/) (A Company under HOA LÂM Group)**
 
