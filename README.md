@@ -10,6 +10,26 @@ Frontend Developer | ReactJS | Next.js | TypeScript
 
 ---
 
+## 💻 Tech Stack
+
+- **Languages & Frameworks:** JavaScript, TypeScript, ReactJS, Next.js
+- **UI/UX & Styling:** Shadcn UI, Radix UI, Tailwind CSS, DevExtreme, Material UI, Bootstrap
+- **State Management:** Redux, Zustand, Context API
+- **Mobile Development:** React Native, EAS (Expo Application Services)
+- **APIs & Tools:** Axios, Fetch, Swagger, Git, GitHub, GitLab
+- **Development Practices:** Agile/Scrum, Clean Code, CI/CD, Code Reviews
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+
+---
+
 ## 🚀 About Me
 
 🎯 **Current Role:**  
@@ -51,27 +71,7 @@ Frontend Developer at [Vietnam Blockchain Corporation (VBC)](https://vietnambloc
   - Reduced document processing time by 40% via UX improvements.
   - Reduced frontend bug reports by 30% through proactive testing.
   - Improved initial load time by 25% with dynamic import and memoization.
-
----
-
-## 💻 Tech Stack
-
-- **Languages & Frameworks:** JavaScript, TypeScript, ReactJS, Next.js
-- **UI/UX & Styling:** Shadcn UI, Radix UI, Tailwind CSS, DevExtreme, Material UI, Bootstrap
-- **State Management:** Redux, Zustand, Context API
-- **Mobile Development:** React Native, EAS (Expo Application Services)
-- **APIs & Tools:** Axios, Fetch, Swagger, Git, GitHub, GitLab
-- **Development Practices:** Agile/Scrum, Clean Code, CI/CD, Code Reviews
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-
+  - 
 ---
 
 ## 📈 GitHub Stats
